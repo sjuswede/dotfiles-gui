@@ -1,0 +1,28 @@
+[window]
+decorations = "None"
+opacity = 0.9
+blur = true
+
+[window.padding]
+x = 5
+y = 5
+
+[scrolling]
+history = 100000
+
+[mouse]
+hide_when_typing = true
+
+[font.normal]
+family = "Firacode Nerd Font"
+style = "Retina"
+
+[font]
+size = 14
+
+[general]
+import = [
+    "~/.config/alacritty/themes/azu.toml",
+    "~/.config/alacritty/local.toml"
+]
+
